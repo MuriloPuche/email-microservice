@@ -5,7 +5,7 @@ import com.ms.email.services.EmailServices;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class EmailController {
+public class EmailController  {
 
     private final EmailServices emailServices;
 
